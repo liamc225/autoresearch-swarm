@@ -1,0 +1,8 @@
+.claude/
+.venv/
+__pycache__/
+*.pyc
+run.log
+results.tsv
+progress.png
+*.pdf
